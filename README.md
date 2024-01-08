@@ -1,5 +1,4 @@
-<img src=![Uploading WhatsApp Image 2023-12-30 at 13.37.31_7341df8a.jpg…]()
-" width="1000px">
+
 <h1 align="center">Hi 👋, I'm yaseen</h1>
 <h3 align="center">A passionate frontend developer from pakistan</h3>
 
